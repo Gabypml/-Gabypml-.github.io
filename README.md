@@ -19,4 +19,4 @@ Simplement pour s'entraîner. Et parce qu'~~un des caochs~~ Arnaud, nous l'a dem
 
 Cesse de plaisanteries, c'est surtout pour *APPRENDRE* Git et GitHub.
 
-![DO IT] (https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![DO IT](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
