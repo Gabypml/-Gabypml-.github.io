@@ -22,8 +22,3 @@ Cesse de plaisanteries, c'est surtout pour *APPRENDRE* Git et GitHub.
 
 ![DO IT](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-
-Ceci est un gros bug de la mort qui tue qui transforme votre console en mode graphique !!!!
-=======
-![DO IT](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
